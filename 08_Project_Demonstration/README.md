@@ -7,4 +7,4 @@ The project demonstration will explain the project name, purpose, benefits, work
 The demonstration will include screen sharing of the ServiceNow project and voice-over explanation.
 
 Demo Video Link:
-To be added after recording and uploading the project demonstration video to Google Drive.
+https://drive.google.com/file/d/1o4yLXA4z9hcdfzBjm_DzWjkJaYOV8jKz/view?usp=drivesdk
